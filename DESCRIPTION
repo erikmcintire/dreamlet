@@ -40,8 +40,8 @@ biocViews:
     ImmunoOncology,
     Software
 Depends:
-    R (>= 4.3.0),
-    variancePartition (>= 1.33.11),
+    R (>= 4.2.0),
+    variancePartition (>= 1.33.6),
     SingleCellExperiment,
     ggplot2
 Imports:
