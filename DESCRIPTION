@@ -71,8 +71,6 @@ Imports:
     tidyr,
     rlang,
     BiocGenerics,
-    S4Arrays,
-    SparseArray,
     DelayedArray,
     gtools,
     reshape2,
